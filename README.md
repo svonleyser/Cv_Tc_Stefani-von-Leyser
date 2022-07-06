@@ -1,4 +1,8 @@
 # Cv_Tc_Stefani-von-Leyser
+
+![stefani (1)](https://user-images.githubusercontent.com/108742903/177580230-db74b7d4-2b91-4af1-9f97-daca82c25c3d.jpeg)
+
+
 # Stefani von Leyser - Curriculum Vitae
 # Perfil
 Soy de Villarrica donde viví hasta los 18 años y estudie en el colego alemán. Luego vine a estudiar Ingeneria comercial a Santiago en la universidad Adolfo Ibañez, donde actualmente estoy reaizando el magister en Innovación y Diseño.
@@ -18,7 +22,7 @@ Cajera en Onces Alemanas
 ### Gottpadel (EN PROCESO)
 Productos de padel (www.gottpadel.cl página en proceso)
 ### VonK (2020-2021)
-Venta de carteras de cuero Realizadas a mano en el sur de Chile y productos argentinos. (VonK.cl)
+Venta de carteras de cuero Realizadas a mano en el sur de Chile y productos argentinos. (@VonK.cl)
 ### Anka Denim (2018)
 Confección y venta de ropa de segunda mano. (@Anka.denim)
 
