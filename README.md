@@ -1,6 +1,6 @@
 # Cv_Tc_Stefani-von-Leyser
 
-![stefani (1)](https://user-images.githubusercontent.com/108742903/177580230-db74b7d4-2b91-4af1-9f97-daca82c25c3d.jpeg)
+ ![stefani (1)](https://user-images.githubusercontent.com/108742903/177580230-db74b7d4-2b91-4af1-9f97-daca82c25c3d.jpeg)
 
 
 # Stefani von Leyser - Curriculum Vitae
